@@ -1,0 +1,1 @@
+This is a Store Point Of Sale(POS) Application User Interface
